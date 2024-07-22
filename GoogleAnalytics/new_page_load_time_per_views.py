@@ -3,3 +3,4 @@
 # @Author   : anliu
 # @File     : new_page_load_time_per_views.py
 # @Theme    : PyCharm
+print(1)
